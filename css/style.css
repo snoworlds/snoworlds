@@ -1,0 +1,331 @@
+@charset "UTF-8";
+.container {
+	background-color: #FFFFFF;
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	border-bottom-width: 0px;
+	padding-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	text-decoration: none;
+}
+.row {
+	width: 100%;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	display: inline-block
+}
+.row.blockDisplay {
+	display: block;
+}
+.column_half {
+	width: 50%;
+	float: left;
+	margin-top: 0px;
+}
+.columns {
+	width: 25%;
+	float: left;
+	font-family: "fantasy";
+	color: #A5A5A5;
+	line-height: 24px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: justify;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	padding-left: 0px;
+	padding-right: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+}
+.row .columns p {
+	padding-left: 10%;
+	padding-right: 10%;
+}
+.container .columns h4 {
+	text-align: center;
+	color: #01B2D1;
+}
+.primary_header {
+	
+	font-family: "Simsun";
+	
+}
+.container .primary_header
+{
+	margin-top: 0px;
+	margin-bottom: auto;
+	width: 100%;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	background-image:url(../images/header.jpg);
+	
+}
+.secondary_header {
+	width: 100%;
+	padding-top: 50px;
+	padding-bottom: 70px;
+	background-color: #B3B3B3;
+	clear: left;
+}
+.container .secondary_header ul a{
+	margin-top: 0%;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 15px;
+	padding-left: 0px;
+	width: 100%;
+	text-decoration: none;
+	color: aliceblue;
+}
+.secondary_header ul li {
+	list-style: none;
+	float: left;
+	margin-right: auto;
+	margin-top: 0px;
+	font-family: "Simsun";
+	font-weight: normal;
+	color: #FFFFFF;
+	letter-spacing: 1px;
+	margin-left: auto;
+	text-align: center;
+	width: 16%;
+	transition: all 0.3s linear;
+	text-decoration: none;
+}
+.secondary_header ul a:hover {
+	color: #717070;
+	cursor: pointer;
+}
+.left_article {
+	background-color: #343434;
+	width: 50%;
+	height: 500px;
+	float: left;
+	font-family: "Source Sans Pro";
+	color: #343434;
+}
+.noDisplay {
+	display: none;
+}
+.container .left_article h3 {
+	padding-left: 5%;
+	padding-right: 5%;
+	margin-top: 5%;
+	color: #717070;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+.container .left_article p {
+	padding-left: 5%;
+	padding-right: 5%;
+	text-align: justify;
+	line-height: 24px;
+	margin-top: 0px;
+	margin-bottom: 30px;
+	color: #B3B3B3;
+}
+.right_article {
+	background-color: #F6F6F6;
+	width: 50%;
+	height: 500px;
+	float: right;
+	font-family: "Simsun";
+	color: #343434;
+	
+}
+.container .right_article ul {
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+}
+.right_article ul li {
+	font-family: "Source Sans Pro";
+	list-style: none;
+	text-align: center;
+	background-color: #B3B3B3;
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	color: #FFFFFF;
+	font-weight: bold;
+	border-radius: 0px;
+	transition: all 0.3s linear;
+	border-left: 5px solid #717070;
+}
+.right_article ul li:hover {
+	background-color: #717070;
+	cursor: pointer;
+}
+.footer {
+	background-color: #717070;
+}
+.title {
+	font-weight: bold;
+	font-style: normal;
+	font-family: "Source Sans Pro";
+	text-align: center;
+	color: #FFFFFF;
+	letter-spacing: 2px;
+}
+.placeholder {
+
+	width: 100%;
+	height: 100%;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	
+}
+.left_half {
+	background-color: #52BAD5;
+}
+.container .column_half.left_half h2 {
+	color: #FFFFFF;
+	font-family: "Source Sans Pro";
+	text-align: center;
+}
+.right_half {
+	background-color: #01B2D1;
+	color: #FFFFFF;
+	font-family: "Source Sans Pro";
+	text-align: center;
+	font-weight: bold;
+}
+.column_title {
+	padding-top: 25px;
+	padding-bottom: 25px;
+}
+.copyright {
+	text-align: center;
+	background-color: #717070;
+	color: #FFFFFF;
+	text-transform: uppercase;
+	font-weight: lighter;
+	letter-spacing: 2px;
+	border-top-width: 2px;
+	font-family: "Source Sans Pro";
+}
+body {
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+}
+.columns {
+	width: 50%;
+	float: left;
+	padding-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+}
+.columns {
+	width: 25%;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 0PX;
+	padding-right: 0PX;
+	padding-bottom: 0PX;
+	padding-left: 0PX;
+}
+.columns p {
+	padding-left: 10px;
+	padding-right: 10px;
+	font-family: "Simsun";
+}
+.container .columns p {
+	padding-left: 25px;
+	padding-right: 25px;
+}
+.container .row .columns{
+	text-align: center;}
+
+
+.thumbnail_align {
+	text-align: center;
+}
+
+
+.social {
+	text-align: center;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	width: 100%;
+	background-color: #FFFFFF;
+	clear: both;
+	overflow: auto;
+}
+.social .social_icon img {
+	width: 30%;
+}
+
+.social_icon {
+	width: 25%;
+	text-align: center;
+	float: left;
+	transition: all 0.3s linear;
+	line-height: 0px;
+	padding-top: 7px;
+}
+.left_half {
+	background-color: #52BAD5;
+}
+
+.right_half {
+	background-color: #01B2D1;
+	color: #DFDF11;
+	font-family: "Source Sans Pro";
+	text-align: center;
+	font-weight: bold;
+}
+.row.blockDisplay {
+	display: block;
+}
+.column_title {
+	padding-top: 25px;
+	padding-bottom: 25px;
+}
+
+.column_half.left_half {
+	width: 50%;
+}
+.column_half.right_half {
+	width: 50%;
+}
+.container .column_half.left_half h2 {
+	font-family: "Simsun";
+	font-weight: bold;
+	text-align: center;
+}
+.container .column_half.right_half h2 {
+	font-family: "Simsun";
+	font-weight: bold;
+	text-align: center;
+}
+.container .left_article.placeholder{
+	margin-bottom: 0px;
+}

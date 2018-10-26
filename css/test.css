@@ -1,0 +1,37 @@
+@charset "UTF-8";
+.container {
+	background-color: #FFFFFF;
+	width: 100%;
+	margin-left: 0px;
+	margin-right: 0px;
+	border-bottom-width: 0px;
+	padding-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+}
+.copyright {
+	text-align: center;
+	background-color: #B3B3B3;
+	color: #FFFFFF;
+	text-transform: uppercase;
+	font-weight: lighter;
+	letter-spacing: 3px;
+	border-top-width: 5px;
+	font-family: "Simsun";
+}
+
+.secondary_header {
+	width: 100%;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	background-color: #B3B3B3;
+	clear: left;
+}
+.container .secondary_header{
+	width:100%;
+	font-family: "Simsun";
+	font-weight: bold;
+	background-color: #B3B3B3;
+	
+}
