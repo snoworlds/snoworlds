@@ -48,7 +48,7 @@
   
     <section>
     <h2 class="noDisplay">Main Content</h2>
-	<aside class="left_article"><img src="./images/sky720P.jpg" alt="" class="placeholder"/></aside>
+	<aside class="left_article"><img src="./images/Sky720P.jpg" alt="" class="placeholder"/></aside>
     <article class="left_article">
 	
       <h3>竹石</h3>
