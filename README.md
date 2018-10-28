@@ -114,7 +114,7 @@
   <div class="social">
     <p class="social_icon"><a href="mailto:snoworlds.ly@gmail.com"><img src="./images/mail.jpg" width="100" alt="" /></a></p>
     <p class="social_icon"><a href="https://www.instagram.com/lynn.lu2016/"><img src="./images/ins.jpg" width="100" alt="" /></a></p>
-    <p class="social_icon"><a href="https://vk.com/tenda"><img src="./images/vk.jpg" width="100" alt="" /></a></p>
+    <p class="social_icon"><a href="https://www.zhihu.com"><img src="./images/zhihu.jpg" width="100" alt="" /></a></p>
     <p class="social_icon"><a href="https://github.com/snoworlds"><img src="./images/git.jpg" width="100" alt="" /></a></p>
   </div>
   
