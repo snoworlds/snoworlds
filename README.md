@@ -1,4 +1,3 @@
-<!doctype html>
 <html>
 <head>
 <meta charset="utf-8">
@@ -120,6 +119,6 @@
   </div>
   
 </div>
-<iframe width="100%" src="./test.html"></iframe>
+<iframe width="100%" src="./test.html" scrolling="no"></iframe>
 </body>
 </html>
